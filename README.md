@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center" style="color: #fff">💖Visit Count💖</h3>
+
 ### Hi there I'm Pedram👋
 <p align >👨‍💻I'm currently undergraduate computer engineering student at Shahid Beheshti University, Tehran, Iran.</p>
 

@@ -5,6 +5,11 @@
 ### Hi there I'm Pedram👋
 <p align >👨‍💻I'm currently undergraduate computer engineering student at Shahid Beheshti University, Tehran, Iran.</p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pedramrmz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 <img align = "center" src= "https://github.com/pedramrmz/pedramrmz/assets/84854671/ad357ebd-fc32-4a2a-92c1-b1b6984028f4">
 
 <p align >⚡ I'm currently learning WebDeveloapment</p>
@@ -22,3 +27,5 @@
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/badrnezhad" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrnezhad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+

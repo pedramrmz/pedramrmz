@@ -3,14 +3,13 @@
 
 
 ### Hi there I'm Pedram👋
-
-
+<p align >👨‍💻I'm currently undergraduate computer engineering student at Shahid Beheshti University, Tehran, Iran.</p>
 
 <img align = "center" src= "https://github.com/pedramrmz/pedramrmz/assets/84854671/ad357ebd-fc32-4a2a-92c1-b1b6984028f4">
 
-<p >🌱 I'm currently learning WebDeveloapment</p>
+<p align >⚡ I'm currently learning WebDeveloapment</p>
 
-
+<p align >📫 How to reach me : pedramrmz@yahoo.com,pedramram80@gmail.com </p>
 
 <h2  align = "center">Languages and Tools:</h2>
 
